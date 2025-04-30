@@ -60,28 +60,19 @@ Progress badges for completed tours
 
 ## Technology Stack
  
-React.js
-
+React.js, Three.js 
 Node.js, Express.js
-
-PostgreSQL
-
-Google maps
-
-Firebase Authenticator
-
-Git, Postman, Insomnia
-
-
+Database	MongoDB / PostgreSQL
+Deployment	Netlify/Vercel , Render/Heroku 
+Version Control	Git, GitHub
 
 
 
 
 ## Dependencies
 
-Mapping Service Integration-10 days
 
-Data Collection -10 days
-
-Estimated Budget-₹50,000
-
+3D Model Creation-15 days
+Content Collection (Herbal Info)-10 days
+Testing & Feedback Loop-5 days
+Estimated Budget-₹70,000 

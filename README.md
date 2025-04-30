@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:30:04:2025
+## Register Number:212223220015
+## Name:charan kumar S
 ## Problem Title
 SIH 1555: Create a Virtual Herbal Garden that provides an interactive, educational, and immersive experience to users, showcasing the diverse range of medicinal plants used in AYUSH (Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy).
 ## Problem Description
@@ -12,27 +12,27 @@ Ministry of Ayush
 
 
 ## Idea
-Interactive 3D Garden Viewer
+1.Interactive 3D Garden Viewer
 
 Users can view and explore 3D models of medicinal plants with zoom and rotation features.
 
-Plant Encyclopedia
+2.Plant Encyclopedia
 
 Includes botanical and common names, habitat, medicinal uses, and cultivation methods for each plant.
 
-Multimedia Content Integration
+3.Multimedia Content Integration
 
 High-quality images, videos, and audio guides in multiple languages for a rich learning experience.
 
-Smart Search & Filters
+4.Smart Search & Filters
 
 Search by plant name, region, or health benefits (e.g., digestive, immunity, skin care).
 
-Thematic Virtual Tours
+5.Thematic Virtual Tours
 
 Pre-designed tours based on use-cases like “Herbs for Stress Relief” or “Plants for Immunity.”
 
-User Interaction Tools
+6.User Interaction Tools
 
 Bookmark favorite plants, write personal notes, and share plant info on social platforms.
 
@@ -45,19 +45,19 @@ Bookmark favorite plants, write personal notes, and share plant info on social p
 
 ## Technology Stack
  
-Frontend: React.js
+React.js
 
-Backend: Node.js, Express.js
+Node.js, Express.js
 
-Database: PostgreSQL
+PostgreSQL
 
-Map Integration: Google Maps API
+Google maps
 
-Authentication: Firebase Authenticator
+Firebase Authenticator
 
-Tools: Git, Postman, Insomnia
+Git, Postman, Insomnia
 
-(Optional AI): TensorFlow.js / Clarifai API for image recognition
+
 
 
 
@@ -65,9 +65,8 @@ Tools: Git, Postman, Insomnia
 ## Dependencies
 
 Mapping Service Integration-10 days
-Data Collection (Facility Data, E-waste Types)-10 days
-UI/UX Design-5 days
-Backend & Database Setup-7 days
-Testing & Optimization-5 days
+
+Data Collection -10 days
+
 Estimated Budget-₹50,000
 

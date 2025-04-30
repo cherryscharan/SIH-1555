@@ -61,9 +61,13 @@ Progress badges for completed tours
 ## Technology Stack
  
 React.js, Three.js 
+
 Node.js, Express.js
+
 Database	MongoDB / PostgreSQL
+
 Deployment	Netlify/Vercel , Render/Heroku 
+
 Version Control	Git, GitHub
 
 
@@ -73,6 +77,9 @@ Version Control	Git, GitHub
 
 
 3D Model Creation-15 days
+
 Content Collection (Herbal Info)-10 days
+
 Testing & Feedback Loop-5 days
+
 Estimated Budget-₹70,000 

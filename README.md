@@ -50,11 +50,11 @@ Filters by:
 
 6.User Interaction
 
-Bookmark favorite plants
+   Bookmark favorite plants
 
-Add personal notes
+   Add personal notes
 
-Share plant info via social media
+   Share plant info via social media
 
 7.Gamified Learning (Optional Extension)
 

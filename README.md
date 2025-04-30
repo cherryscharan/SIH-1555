@@ -51,7 +51,7 @@ Quizzes on plant benefits,
 Progress badges for completed tours
 
 ## Proposed Solution / Architecture Diagram
-)
+
 
 
 ## Use Cases

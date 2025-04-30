@@ -19,15 +19,10 @@ Use interactive 3D models (zoom, rotate, inspect) of medicinal plants
 2.Plant Encyclopedia
 
 Each plant will include:
-
-Botanical name
-
-Common names
-
-Region/Habitat
-
-Medicinal Uses (AYUSH-based)
-
+Botanical name,
+Common names,
+Region/Habitat,
+Medicinal Uses (AYUSH-based),
 Cultivation methods
 
 
@@ -38,29 +33,21 @@ Videos and audio in multiple Indian languages for inclusive education
 4.Search & Filter System
 
 Filters by:
-
-Disease/health issue (e.g., skin care, digestion)
-
-Region
-
-Plant type
+Disease/health issue (e.g., skin care, digestion),
+Region,
+Plant type,
 
 5.Thematic Virtual Tours
 
 “Immunity Boosters”, “Skin Care Herbs”, “Digestive Aids”, etc.
 
-6.User Interaction
-
- Bookmark favorite plants
- 
- Add personal notes
- 
+6.User Interaction:
+ Bookmark favorite plants,
+ Add personal notes,
  Share plant info via social media
 
-7.Gamified Learning (Optional Extension)
-
-Quizzes on plant benefits
-
+7.Gamified Learning (Optional Extension):
+Quizzes on plant benefits,
 Progress badges for completed tours
 
 ## Proposed Solution / Architecture Diagram

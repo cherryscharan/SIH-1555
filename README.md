@@ -82,20 +82,6 @@ Progress badges for completed tours
 | **Others**    | Figma (UI/UX design), Postman (API testing) |
 
 
-## Technology Stack
- 
-React.js, Three.js 
-
-Node.js, Express.js
-
-Database	MongoDB / PostgreSQL
-
-Deployment	Netlify/Vercel , Render/Heroku 
-
-Version Control	Git, GitHub
-
-
-
 
 ## Dependencies
 

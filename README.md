@@ -10,7 +10,31 @@ Background: The AYUSH sector relies heavily on medicinal plants and herbs, which
 ## Problem Creater's Organization
 Ministry of Ayush
 
+
 ## Idea
+Interactive 3D Garden Viewer
+
+Users can view and explore 3D models of medicinal plants with zoom and rotation features.
+
+Plant Encyclopedia
+
+Includes botanical and common names, habitat, medicinal uses, and cultivation methods for each plant.
+
+Multimedia Content Integration
+
+High-quality images, videos, and audio guides in multiple languages for a rich learning experience.
+
+Smart Search & Filters
+
+Search by plant name, region, or health benefits (e.g., digestive, immunity, skin care).
+
+Thematic Virtual Tours
+
+Pre-designed tours based on use-cases like “Herbs for Stress Relief” or “Plants for Immunity.”
+
+User Interaction Tools
+
+Bookmark favorite plants, write personal notes, and share plant info on social platforms.
 
 
 ## Proposed Solution / Architecture Diagram
@@ -20,7 +44,30 @@ Ministry of Ayush
 
 
 ## Technology Stack
+ 
+Frontend: React.js
+
+Backend: Node.js, Express.js
+
+Database: PostgreSQL
+
+Map Integration: Google Maps API
+
+Authentication: Firebase Authenticator
+
+Tools: Git, Postman, Insomnia
+
+(Optional AI): TensorFlow.js / Clarifai API for image recognition
+
+
 
 
 ## Dependencies
+
+Mapping Service Integration-10 days
+Data Collection (Facility Data, E-waste Types)-10 days
+UI/UX Design-5 days
+Backend & Database Setup-7 days
+Testing & Optimization-5 days
+Estimated Budget-₹50,000
 

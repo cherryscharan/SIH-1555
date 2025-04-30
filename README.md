@@ -12,30 +12,55 @@ Ministry of Ayush
 
 
 ## Idea
-1.Interactive 3D Garden Viewer
+1.3D Virtual Garden
 
-Users can view and explore 3D models of medicinal plants with zoom and rotation features.
+Use interactive 3D models (zoom, rotate, inspect) of medicinal plants
 
 2.Plant Encyclopedia
 
-Includes botanical and common names, habitat, medicinal uses, and cultivation methods for each plant.
+Each plant will include:
 
-3.Multimedia Content Integration
+    Botanical name
 
-High-quality images, videos, and audio guides in multiple languages for a rich learning experience.
+    Common names
 
-4.Smart Search & Filters
+    Region/Habitat
 
-Search by plant name, region, or health benefits (e.g., digestive, immunity, skin care).
+    Medicinal Uses (AYUSH-based)
+
+    Cultivation methods
+
+3.Multimedia Integration
+
+Videos and audio in multiple Indian languages for inclusive education
+
+4.Search & Filter System
+
+Filters by:
+
+Disease/health issue (e.g., skin care, digestion)
+
+Region
+
+Plant type
 
 5.Thematic Virtual Tours
 
-Pre-designed tours based on use-cases like “Herbs for Stress Relief” or “Plants for Immunity.”
+“Immunity Boosters”, “Skin Care Herbs”, “Digestive Aids”, etc.
 
-6.User Interaction Tools
+6.User Interaction
 
-Bookmark favorite plants, write personal notes, and share plant info on social platforms.
+Bookmark favorite plants
 
+Add personal notes
+
+Share plant info via social media
+
+7.Gamified Learning (Optional Extension)
+
+Quizzes on plant benefits
+
+Progress badges for completed tours
 
 ## Proposed Solution / Architecture Diagram
 

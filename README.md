@@ -51,6 +51,7 @@ Quizzes on plant benefits,
 Progress badges for completed tours
 
 ## Proposed Solution / Architecture Diagram
+![image](https://github.com/user-attachments/assets/8e586a30-3bc3-4f9d-b281-389dac96f01c)
 
 
 ## Use Cases
